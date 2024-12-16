@@ -1,0 +1,57 @@
+C:\Users\HP\OneDrive\Desktop\FileProj\library1\library1\bin\Debug\net8.0-windows\library1.exe
+C:\Users\HP\OneDrive\Desktop\FileProj\library1\library1\bin\Debug\net8.0-windows\library1.deps.json
+C:\Users\HP\OneDrive\Desktop\FileProj\library1\library1\bin\Debug\net8.0-windows\library1.runtimeconfig.json
+C:\Users\HP\OneDrive\Desktop\FileProj\library1\library1\bin\Debug\net8.0-windows\library1.dll
+C:\Users\HP\OneDrive\Desktop\FileProj\library1\library1\bin\Debug\net8.0-windows\library1.pdb
+C:\Users\HP\OneDrive\Desktop\FileProj\library1\library1\obj\Debug\net8.0-windows\library1.Form1.resources
+C:\Users\HP\OneDrive\Desktop\FileProj\library1\library1\obj\Debug\net8.0-windows\library1.Form2.resources
+C:\Users\HP\OneDrive\Desktop\FileProj\library1\library1\obj\Debug\net8.0-windows\library1.csproj.GenerateResource.cache
+C:\Users\HP\OneDrive\Desktop\FileProj\library1\library1\obj\Debug\net8.0-windows\library1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\OneDrive\Desktop\FileProj\library1\library1\obj\Debug\net8.0-windows\library1.AssemblyInfoInputs.cache
+C:\Users\HP\OneDrive\Desktop\FileProj\library1\library1\obj\Debug\net8.0-windows\library1.AssemblyInfo.cs
+C:\Users\HP\OneDrive\Desktop\FileProj\library1\library1\obj\Debug\net8.0-windows\library1.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Desktop\FileProj\library1\library1\obj\Debug\net8.0-windows\library1.dll
+C:\Users\HP\OneDrive\Desktop\FileProj\library1\library1\obj\Debug\net8.0-windows\refint\library1.dll
+C:\Users\HP\OneDrive\Desktop\FileProj\library1\library1\obj\Debug\net8.0-windows\library1.pdb
+C:\Users\HP\OneDrive\Desktop\FileProj\library1\library1\obj\Debug\net8.0-windows\library1.genruntimeconfig.cache
+C:\Users\HP\OneDrive\Desktop\FileProj\library1\library1\obj\Debug\net8.0-windows\ref\library1.dll
+C:\Users\HP\OneDrive\Desktop\FileProj\library1\library1\obj\Debug\net8.0-windows\library1.Form3.resources
+C:\Users\HP\OneDrive\Desktop\FileProj\library1\library1\obj\Debug\net8.0-windows\library1.Form4.resources
+C:\Users\Yousef\Documents\College files\File Processing\Project\library1\library1\library1\bin\Debug\net8.0-windows\library1.exe
+C:\Users\Yousef\Documents\College files\File Processing\Project\library1\library1\library1\bin\Debug\net8.0-windows\library1.deps.json
+C:\Users\Yousef\Documents\College files\File Processing\Project\library1\library1\library1\bin\Debug\net8.0-windows\library1.runtimeconfig.json
+C:\Users\Yousef\Documents\College files\File Processing\Project\library1\library1\library1\bin\Debug\net8.0-windows\library1.dll
+C:\Users\Yousef\Documents\College files\File Processing\Project\library1\library1\library1\bin\Debug\net8.0-windows\library1.pdb
+C:\Users\Yousef\Documents\College files\File Processing\Project\library1\library1\library1\obj\Debug\net8.0-windows\library1.Form1.resources
+C:\Users\Yousef\Documents\College files\File Processing\Project\library1\library1\library1\obj\Debug\net8.0-windows\library1.Form2.resources
+C:\Users\Yousef\Documents\College files\File Processing\Project\library1\library1\library1\obj\Debug\net8.0-windows\library1.Form3.resources
+C:\Users\Yousef\Documents\College files\File Processing\Project\library1\library1\library1\obj\Debug\net8.0-windows\library1.Form4.resources
+C:\Users\Yousef\Documents\College files\File Processing\Project\library1\library1\library1\obj\Debug\net8.0-windows\library1.csproj.GenerateResource.cache
+C:\Users\Yousef\Documents\College files\File Processing\Project\library1\library1\library1\obj\Debug\net8.0-windows\library1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yousef\Documents\College files\File Processing\Project\library1\library1\library1\obj\Debug\net8.0-windows\library1.AssemblyInfoInputs.cache
+C:\Users\Yousef\Documents\College files\File Processing\Project\library1\library1\library1\obj\Debug\net8.0-windows\library1.AssemblyInfo.cs
+C:\Users\Yousef\Documents\College files\File Processing\Project\library1\library1\library1\obj\Debug\net8.0-windows\library1.csproj.CoreCompileInputs.cache
+C:\Users\Yousef\Documents\College files\File Processing\Project\library1\library1\library1\obj\Debug\net8.0-windows\library1.dll
+C:\Users\Yousef\Documents\College files\File Processing\Project\library1\library1\library1\obj\Debug\net8.0-windows\refint\library1.dll
+C:\Users\Yousef\Documents\College files\File Processing\Project\library1\library1\library1\obj\Debug\net8.0-windows\library1.pdb
+C:\Users\Yousef\Documents\College files\File Processing\Project\library1\library1\library1\obj\Debug\net8.0-windows\library1.genruntimeconfig.cache
+C:\Users\Yousef\Documents\College files\File Processing\Project\library1\library1\library1\obj\Debug\net8.0-windows\ref\library1.dll
+C:\Users\HP\OneDrive\Desktop\FileTest\library1\library1\bin\Debug\net8.0-windows\library1.exe
+C:\Users\HP\OneDrive\Desktop\FileTest\library1\library1\bin\Debug\net8.0-windows\library1.deps.json
+C:\Users\HP\OneDrive\Desktop\FileTest\library1\library1\bin\Debug\net8.0-windows\library1.runtimeconfig.json
+C:\Users\HP\OneDrive\Desktop\FileTest\library1\library1\bin\Debug\net8.0-windows\library1.dll
+C:\Users\HP\OneDrive\Desktop\FileTest\library1\library1\bin\Debug\net8.0-windows\library1.pdb
+C:\Users\HP\OneDrive\Desktop\FileTest\library1\library1\obj\Debug\net8.0-windows\library1.Form1.resources
+C:\Users\HP\OneDrive\Desktop\FileTest\library1\library1\obj\Debug\net8.0-windows\library1.Form2.resources
+C:\Users\HP\OneDrive\Desktop\FileTest\library1\library1\obj\Debug\net8.0-windows\library1.Form3.resources
+C:\Users\HP\OneDrive\Desktop\FileTest\library1\library1\obj\Debug\net8.0-windows\library1.Form4.resources
+C:\Users\HP\OneDrive\Desktop\FileTest\library1\library1\obj\Debug\net8.0-windows\library1.csproj.GenerateResource.cache
+C:\Users\HP\OneDrive\Desktop\FileTest\library1\library1\obj\Debug\net8.0-windows\library1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\OneDrive\Desktop\FileTest\library1\library1\obj\Debug\net8.0-windows\library1.AssemblyInfoInputs.cache
+C:\Users\HP\OneDrive\Desktop\FileTest\library1\library1\obj\Debug\net8.0-windows\library1.AssemblyInfo.cs
+C:\Users\HP\OneDrive\Desktop\FileTest\library1\library1\obj\Debug\net8.0-windows\library1.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Desktop\FileTest\library1\library1\obj\Debug\net8.0-windows\library1.dll
+C:\Users\HP\OneDrive\Desktop\FileTest\library1\library1\obj\Debug\net8.0-windows\refint\library1.dll
+C:\Users\HP\OneDrive\Desktop\FileTest\library1\library1\obj\Debug\net8.0-windows\library1.pdb
+C:\Users\HP\OneDrive\Desktop\FileTest\library1\library1\obj\Debug\net8.0-windows\library1.genruntimeconfig.cache
+C:\Users\HP\OneDrive\Desktop\FileTest\library1\library1\obj\Debug\net8.0-windows\ref\library1.dll
